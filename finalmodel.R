@@ -39,5 +39,4 @@ write.csv(pred, "predictions.csv", row.names = FALSE)
 # Calculate error %
 # -------------------
 error_df <- read.csv("predictions.csv")
-
 error_pct <- nrow(filter(error_df, x == "breeding"))/nrow(error_df)
