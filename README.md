@@ -1,6 +1,6 @@
 ## About This Project
 Crows are often considered one of the most intelligent species in the world. Their complex communication system takes into account location, whether predators are present, and seasonality<sup>[[1](https://www.proquest.com/openview/509666f2adc81c6d830589f793a4e4fb/1?pq-origsite=gscholar&cbl=18750&diss=y)]</sup>. 
-Nonetheless, current literature lacks understanding in how alarm calls differ between breeding and non breeding seasons. This project aims to understand that difference by playing a crow distress call from parking lots and parks, analyzing spectrogram data, and developing a machine learning model to classify
+Nonetheless, current literature lacks understanding in how alarm calls differ between breeding and non breeding seasons. This capstone project aims to understand that difference by playing a crow distress call from parking lots and parks, analyzing spectrogram data, and developing a machine learning model to classify
 vocalizations between seasonality.
 
 ## Usage
